@@ -1,4 +1,4 @@
-<p align="center" style="font-size:50px;">👋<strong> Hi, I’m Ali Ahmed Burney, Mobile Application Developer </strong></p>
+<h1 align="center" style="font-size:50px;">👋<strong> Hi, I’m Ali Ahmed Burney, Mobile Application Developer </strong></h1>
 
 🚀 Passionate about building scalable and user-friendly mobile applications  
 

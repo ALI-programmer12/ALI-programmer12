@@ -25,8 +25,11 @@
 ### 📱 Mobile & Frontend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60" style="margin-right:25px;"/>
+  <div style="width: 20px; display: inline-block;"></div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="60" height="60" style="margin-right:25px;"/>
+  <div style="width: 20px; display: inline-block;"></div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" style="margin-right:25px;"/>
+  <div style="width: 20px; display: inline-block;"></div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" style="margin-right:25px;"/>
 </p>
 
@@ -35,8 +38,11 @@
 ### ⚙️ Backend & App Architecture
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" style="margin-right:25px;"/>
+  <div style="width: 20px; display: inline-block;"></div>
   <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="60" height="60" style="margin-right:25px;"/>
+  <div style="width: 20px; display: inline-block;"></div>
   <img src="https://riverpod.dev/img/logo.svg" width="60" height="60" style="margin-right:25px;"/>
+  <div style="width: 20px; display: inline-block;"></div>
 </p>
 
 ---
@@ -44,8 +50,11 @@
 ### 🧰 Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="margin-right:25px;"/>
+  <div style="width: 20px; display: inline-block;"></div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" style="margin-right:25px;"/>
+  <div style="width: 20px; display: inline-block;"></div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" style="margin-right:25px;"/>
+  
 </p>
 
 ## 🌐 Socials:

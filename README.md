@@ -1,4 +1,4 @@
-<p align="center">👋 Hi, I’m <strong>Ali Ahmed Burney</strong>, Mobile Application Developer</p>
+<p align="center">👋<strong> Hi, I’m Ali Ahmed Burney, Mobile Application Developer </strong></p>
 
 🚀 Passionate about building scalable and user-friendly mobile applications  
 

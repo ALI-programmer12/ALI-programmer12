@@ -1,13 +1,32 @@
-# 💫 About Me:
-👋 Hi, I’m Ali Ahmed Burney, Mobile Application Developer<br><br>🚀 Passionate about building scalable and user-friendly mobile applications<br><br>📱 Specialized in Flutter & Dart for cross-platform development<br><br>🛠 Experienced with Riverpod, CRUD operations, and Supabase integration<br><br>📚 Continuously improving my skills through hands-on projects and self-learning<br><br>🎯 Currently focusing on Flutter architecture, clean code, and app performance<br><br>🤝 Open to collaborations, internships, and learning opportunities<br><br>💬 Ask me about Flutter, Dart, and mobile app development<br><br>🔥 Tech Stack: Flutter, Dart, Supabase, Riverpod, Git<br><br>🌱 Currently learning advanced Flutter state management and backend integration<br><br>📫 Reach me on GitHub for collaboration and project discussions
+<p align="center">👋 Hi, I’m <strong>Ali Ahmed Burney</strong>, Mobile Application Developer</p>
+
+🚀 Passionate about building scalable and user-friendly mobile applications  
+
+📱 Specialized in Flutter & Dart for cross-platform development  
+
+🛠 Experienced with Riverpod, CRUD operations, and Supabase integration  
+
+📚 Continuously improving my skills through hands-on projects and self-learning  
+
+🎯 Currently focusing on Flutter architecture, clean code, and app performance  
+
+🤝 Open to collaborations, internships, and learning opportunities  
+
+💬 Ask me about Flutter, Dart, and mobile app development  
+
+🔥 Tech Stack: Flutter, Dart, Supabase, Riverpod, Git  
+
+🌱 Currently learning advanced Flutter state management and backend integration  
+
+📫 Reach me on GitHub for collaboration and project discussions
 
 ## 🚀 My Skill Set
 
 ### 📱 Mobile & Frontend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60" style="margin-right:15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="60" height="60" style="margin-right:15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" style="margin-right:15px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
 </p>
 
@@ -15,8 +34,8 @@
 
 ### ⚙️ Backend & App Architecture
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60"/>
-  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" style="margin-right:15px;"/>
+  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="60" height="60" style="margin-right:15px;"/>
   <img src="https://riverpod.dev/img/logo.svg" width="60" height="60"/>
 </p>
 
@@ -24,10 +43,11 @@
 
 ### 🧰 Tools
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="margin-right:15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" style="margin-right:15px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/>
 </p>
+
 
 
 

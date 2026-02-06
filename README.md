@@ -1,4 +1,4 @@
-<h3 align="center" style="font-size:50px;">👋<strong> Hi, I’m Ali Ahmed Burney, Mobile Application Developer </strong></h3>
+<h3 align="center" style="font-size:50px;">👋<strong> Hi, I’m Ali Ahmed Burney — Mobile Application Developer | CS Student at FAST NUCES </strong></h3>
 
 🚀 Passionate about building scalable and user-friendly mobile applications  
 

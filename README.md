@@ -23,34 +23,29 @@
 ## 🚀 My Skill Set
 
 ### 📱 Mobile & Frontend
-<div style="display:flex; gap:20px; align-items:center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
+</p>
+
 ---
 
 ### ⚙️ Backend & App Architecture
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" style="margin-right:25px;"/>
-  <span style="display:inline-block; width: 20px;"></span>
-  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="60" height="60" style="margin-right:25px;"/>
-  <span style="display:inline-block; width: 20px;"></span>
-  <img src="https://riverpod.dev/img/logo.svg" width="60" height="60" style="margin-right:25px;"/>
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60"/>
+  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="60"/>
+  <img src="https://riverpod.dev/img/logo.svg" width="60"/>
 </p>
 
 ---
 
 ### 🧰 Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="margin-right:25px;"/>
-  <span style="display:inline-block; width: 20px;"></span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" style="margin-right:25px;"/>
-  <span style="display:inline-block; width: 20px;"></span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" style="margin-right:25px;"/>
-  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/>
 </p>
 
 ## 🌐 Socials:
